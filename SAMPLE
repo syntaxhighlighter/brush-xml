@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ 
+<!-- comments -->
+<rootNode>
+  <childNodes>
+      <childNode attribute = "value" namespace:attribute='value' attribute=/>
+      <childNode />
+      <childNode />
+      <childNode />
+      <childNode
+          attr1="value"
+          attr2="10"
+          attr3="hello"
+          >
+              value
+          </childNode>
+      <namespace:childNode>
+          <![CDATA[
+              this is some CDATA content
+              <!-- comments inside cdata -->
+              <b alert='false'>tags inside cdata</b>
+          ]]>
+           
+          value = "plain string outside"
+          hello = world
+      </namespace:childNode>
+  </childNodes>
+</rootNode>
+ 
+<!--
+  -- Multiline comments <b>tag</b>
+  -->
