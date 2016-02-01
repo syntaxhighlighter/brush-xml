@@ -1,5 +1,5 @@
 {
-  "name": "brush-xml",
+  "name": "@alexgorbatchev/brush-xml",
   "version": "4.0.0",
   "description": "xml brush module for SyntaxHighlighter.",
   "keywords": [
