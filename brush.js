@@ -1,7 +1,7 @@
 var BrushBase = require('brush-base');
 var regexLib = require('regex-lib');
 var XRegExp = require('xregexp');
-var Match = require('parser').Match;
+var Match = require('syntaxhighlighter-match').Match;
 
 function Brush() {
   function process(match, regexInfo) {
