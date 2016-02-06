@@ -1,16 +1,27 @@
-# syntaxhighlighter/brush-xml
+# brush-xml
 
-XML brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter). This brush is also a base for all other brushes that could be embedded inside HTML code.
-
+[![GratiPay](https://img.shields.io/gratipay/user/alexgorbatchev.svg)](https://gratipay.com/alexgorbatchev/)
 [![Build Status](https://travis-ci.org/syntaxhighlighter/brush-xml.svg)](https://travis-ci.org/syntaxhighlighter/brush-xml)
+![Downloads](https://img.shields.io/npm/dm/@alexgorbatchev/brush-xml.svg)
+![Version](https://img.shields.io/npm/v/@alexgorbatchev/brush-xml.svg)
+
+XML brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter). This brush is also a base for all other brushes that could be embedded inside HTML code.
 
 ## Installation
 
-    npm install @alexgorbatchev/brush-xml
+```
+npm install @alexgorbatchev/brush-xml
+```
+
+## Usage
+
+Please see [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) for usage instructions.
 
 ## Testing
 
-    npm test
+```
+npm test
+```
 
 ## License
 
