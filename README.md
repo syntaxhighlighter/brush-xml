@@ -7,21 +7,9 @@
 
 XML brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter). This brush is also a base for all other brushes that could be embedded inside HTML code.
 
-## Installation
-
-```
-npm install brush-xml
-```
-
 ## Usage
 
 Please see [Building Instructions](https://github.com/syntaxhighlighter/syntaxhighlighter/wiki/Building) on the [SyntaxHighlighter Wiki](https://github.com/syntaxhighlighter/syntaxhighlighter/wiki) for details.
-
-## Testing
-
-```
-npm test
-```
 
 ## License
 
