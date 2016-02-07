@@ -1,6 +1,6 @@
 var BrushBase = require('brush-base');
-var regexLib = require('regex-lib');
-var XRegExp = require('xregexp');
+var regexLib = require('syntaxhighlighter-regex').commonRegExp;
+var XRegExp = require('syntaxhighlighter-regex').XRegExp;
 var Match = require('syntaxhighlighter-match').Match;
 
 function Brush() {
